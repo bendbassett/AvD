@@ -1,5 +1,17 @@
 package com.avd.pack;
 
-public class gameLoop {
+import com.avd.pack.Main;
 
+@SuppressWarnings("unused")
+public class gameLoop implements Runnable{
+	
+	
+	
+	@Override
+	public void run(){
+		
+	}
+	
 }
+
+
